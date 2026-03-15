@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huỳnh Nguyễn Đăng </h1>
 <h3 align="center">A passionate Mobile Developer from Vietnam 🇻🇳</h3>
 ---
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 📱 I’m currently focused on **Mobile Application Development** (Android Native & Cross-platform).
 - 🎓 Third-year IT student sharpening my skills in **UI/UX, System Design**, and **Network Programming**.
