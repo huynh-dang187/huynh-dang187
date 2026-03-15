@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huỳnh Nguyễn Đăng </h1>
+<h1 align="center">👋 Hi, I'm Huỳnh Nguyễn Đăng </h1>
 <h3 align="center">A passionate Mobile Developer from Vietnam 🇻🇳</h3>
 
 ---
@@ -18,12 +18,12 @@
 
 <h4 align="center">Language & Framework</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,dart,java,flutter,android,unity,materialui&theme=dark" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,java,flutter,cs,unity,materialui&theme=dark" alt="Languages and Frameworks" />
 </p>
 
-<h4 align="center">DevOps & Database</h4>
+<h4 align="center">Backend, DevOps & Database</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,docker,linux&theme=dark" alt="DevOps and Database" />
+  <img src="https://skillicons.dev/icons?i=firebase,strapi,docker,linux&theme=dark" alt="Backend, DevOps and Database" />
 </p>
 
 <h4 align="center">Tools</h4>
@@ -31,7 +31,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,androidstudio,postman,figma&theme=dark" alt="Tools" />
 </p>
 
----
 ---
 
 ### ⚙️ GitHub Analytics
