@@ -41,7 +41,7 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huynh-dang187&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huynh-dang187&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynh-dang187&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
 </div>
 
