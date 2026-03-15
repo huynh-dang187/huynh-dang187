@@ -23,7 +23,7 @@
 
 <h4 align="center">Backend, DevOps & Database</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,strapi,docker,linux&theme=dark" alt="Backend, DevOps and Database" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,docker,linux&theme=dark" alt="Backend, DevOps and Database" />
 </p>
 
 <h4 align="center">Tools</h4>
