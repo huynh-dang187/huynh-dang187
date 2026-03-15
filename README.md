@@ -14,28 +14,24 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Technology and tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" />
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<h4 align="center">Language & Framework</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,java,flutter,android,unity,materialui&theme=dark" alt="Languages and Frameworks" />
 </p>
 
+<h4 align="center">DevOps & Database</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,docker,linux&theme=dark" alt="DevOps and Database" />
+</p>
+
+<h4 align="center">Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,postman,figma&theme=dark" alt="Tools" />
+</p>
+
+---
 ---
 
 ### ⚙️ GitHub Analytics
