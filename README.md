@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Huỳnh Nguyễn Đăng ! 👋
 
-<!--
-**huynh-dang187/huynh-dang187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year IT student at UTH with a strong passion for **Mobile Development**. I enjoy building smooth, user-centric mobile applications that solve practical problems. Always eager to learn new technologies and improve my coding skills.
 
-Here are some ideas to get you started:
+**My Tech Stack:**
+- **Mobile:** Android (Kotlin, Jetpack Compose), Flutter (Dart).
+- **Backend & Tools:** Firebase, RESTful APIs, Git, Docker.
+- **Others:** Unity (2D Game Development).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Let's Connect:**
+- Email: huynhdang1872005@gmail.com  
+
+
