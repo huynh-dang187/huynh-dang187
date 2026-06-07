@@ -1,16 +1,16 @@
-<h1 align="center">👋 Hi, I'm Huỳnh Nguyễn Đăng </h1>
+<h1 align="center">Hi, I'm Huỳnh Nguyễn Đăng </h1>
 <h3 align="center">A passionate Mobile Developer from Vietnam 🇻🇳</h3>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 📱 I’m currently focused on **Mobile Application Development** (Android Native & Cross-platform).
-- 🎓 Third-year IT student sharpening my skills in **UI/UX, System Design**, and **Network Programming**.
-- 🚀 Actively working on projects involving **Kotlin, Jetpack Compose, and Flutter**.
-- 💡 Exploring ways to integrate AI (like Gemini API) into mobile products.
-- 🏋️‍♂️ When I'm not coding, you can find me hitting the gym for a workout or learning about personal finance and investing.
-- 📫 How to reach me: **huynhdang1872005@gmail.com**
+- I’m currently focused on **Mobile Application Development** (Android Native & Cross-platform).
+- Third-year IT student sharpening my skills in **UI/UX, System Design**, and **Network Programming**.
+- Actively working on projects involving **Kotlin, Jetpack Compose, and Flutter**.
+- Exploring ways to integrate AI (like Gemini API) into mobile products.
+- When I'm not coding, you can find me hitting the gym for a workout or learning about personal finance and investing.
+- How to reach me: **huynhdang1872005@gmail.com**
 
 ---
 
@@ -35,7 +35,7 @@
 
 ---
 
-### ⚙️ GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huynh-dang187&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 <p align="left">
 <!-- <a href="[LINK_LINKEDIN_CỦA_BẠN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> -->
